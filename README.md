@@ -2,13 +2,13 @@
 
 - This tutorial uses postgres, docker and docker-compose
 
-# To backup database and push to your computer
+### Backup database and pull to your computer
 ```
-	sh do-backup.sh
+  sh do-backup.sh
 ```
 
-### To restore from backup file
+### Restore from backup file
 
 ```
-	sh do-restore.sh
+  sh do-restore.sh
 ```
